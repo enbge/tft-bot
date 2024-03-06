@@ -13,14 +13,16 @@ This Perl script automates the process of farming experience points (XP) in Team
   - Time::HiRes
 
   You can install these modules using the CPAN command:
+  ```
   cpan install MIME::Base64 LWP::UserAgent JSON::Parse Time::HiRes
-
+  ```
 
 ## Usage
 
 1. **Clone Repository**: Clone this repository to your local machine:
+```
 git clone <repository-url>
-
+```
 
 2. **Save Script**: Save the provided Perl script as `tft_afk_bot.pl`.
 
